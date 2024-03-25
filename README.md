@@ -1,3 +1,7 @@
+## Pavex fork wthout needing password !!
+
+Password check is disabled (so no need of password). When asked press enter.
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/LukeMathWalker/pavex/main/logo-dark.webp#gh-dark-mode-only" width="300" alt="pavex">
  <img src="https://raw.githubusercontent.com/LukeMathWalker/pavex/main/logo.webp#gh-light-mode-only" width="300" alt="pavex" style="border-radius: 5%">
@@ -11,9 +15,9 @@
 
 ## What is Pavex?
 
-Pavex is a new framework to build APIs with Rust.  
+Pavex is a new framework to build APIs with Rust.
 
-Pavex aims to have it all: great ergonomics and high performance.   
+Pavex aims to have it all: great ergonomics and high performance.  
 The same **productivity boost** of Ruby on Rails, Spring or ASP.NET Core.  
 As **fast** as a handwritten solution that strips away all abstractions.
 
